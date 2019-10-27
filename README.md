@@ -10,7 +10,8 @@
 ```
 $ pkg install nodejs -y
 $ pkg install bash -y
-$[kg install git -y
+$ pkg install git -y
+$ npm install -g -bash-obfuscate
 $ git clone https://github.com/LenteraHacker/dwdh
 $ cd dwdh
 ```
@@ -20,7 +21,7 @@ $ cd dwdh
 ```
 $ python2 bash.py
 ```
-# [ Screenshot ]
+#DW
 ```
 Jangan salah gunakan cok
 ```
